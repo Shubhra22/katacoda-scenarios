@@ -27,9 +27,10 @@
     }
   },
   "environment": {
-    "uilayout": "iframe"
+    "hidefinish": true,
+    "uilayout": "vscode-terminal-split"
   },
   "backend": {
-    "url": "https://nt.dev/e/237c4877e35a"
+    "imageid": "openjdk:15"
   }
 }
