@@ -1,5 +1,5 @@
 {
-  "title": "New Scenario Template",
+  "title": "Java Intro",
   "description": "A simple scenario example.",
   "difficulty": "Beginner",
   "time": "3 minutes",
@@ -27,9 +27,9 @@
     }
   },
   "environment": {
-    "uilayout": "vscode-terminal-split"
+    "uilayout": "iframe"
   },
   "backend": {
-    "imageid": "openjdk:15"
+    "url": "https://nt.dev/e/237c4877e35a"
   }
 }
